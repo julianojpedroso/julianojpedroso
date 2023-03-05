@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**julianojpedroso/julianojpedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Juliano ✌️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-j-pedroso-b332a3257/)
 
-Here are some ideas to get you started:
+![Juliano J Pedroso GitHub stats](https://github-readme-stats.vercel.app/api?username=julianojpedroso&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+<div style="display: inline block"><br/>
+   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
+
+Graduando de Ciência de Dados. Sou apaixonado por tecnologia e dados. Gosto de desenhar e vejo esse momento como forma de inspiração e relaxamento.
