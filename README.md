@@ -11,4 +11,4 @@
 </div><br/>
 
 
-Graduando de Ciência de Dados, sou apaixonado por tecnologia e dados. Gosto de desenhar e vejo esse momento como forma de inspiração e relaxamento.
+
