@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá! Eu sou Juliano ✌️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-j-pedroso-b332a3257/)
 
