@@ -25,7 +25,7 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117)&nbsp;
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
    
-     <div align="center">
+     
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{julianojpedroso}/count.svg" /></p> 
 <br></div>
